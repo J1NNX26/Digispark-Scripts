@@ -17,9 +17,10 @@ Scripts:
 
 ------------------------------------------------------------------
 
+# Resources
+* Digikeyoard DigiSpark Documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
 
-
-
+------------------------------------------------------------------
 
 
 
