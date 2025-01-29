@@ -11,7 +11,7 @@ You can configure Digispark by following : https://gist.github.com/Ircama/22707e
 
 Scripts: 
 
-1.** Windows Defender Bypass** : This will turn of the Virus & Threat Protection Settings.
+1. **Windows Defender Bypass** : This will turn of the Virus & Threat Protection Settings.
 2. **Keylogger** : This will log all your keystrokes for 2 minutes and store it in a file.
 
 
